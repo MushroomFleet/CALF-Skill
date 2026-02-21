@@ -5,6 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-CALF--Skill-blue?logo=github)](https://github.com/MushroomFleet/CALF-Skill)
 
 CALF WEB: [https://scuffedepoch.com/calf/](https://scuffedepoch.com/calf/)
+SUBSTACK: [why-characters-die-and-what-the-numbers](https://mushroomfleet.substack.com/p/why-characters-die-and-what-the-numbers)
 
 ---
 
